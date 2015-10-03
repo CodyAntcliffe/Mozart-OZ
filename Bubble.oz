@@ -2,12 +2,7 @@
 %0473673
 %SortBubble
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%Compare first two elements
-%If H>T, then swap the two elements
-%If H<T, then H|{Swap Xs}
-%Need a variable to tell us if any changes have been made
-%If swap is made, then changed = true.
-%If we get to nil and changed == false, then we're sorted, otherwise [Swap L}
+%Implement Bubble Sort
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 declare
 local
